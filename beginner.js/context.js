@@ -1,6 +1,5 @@
 const obj = {
     var1:10,
-
     get : function (){
      return this.var1
     }
