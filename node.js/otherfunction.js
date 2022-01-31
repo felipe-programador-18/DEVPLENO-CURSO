@@ -3,5 +3,5 @@ const Equal = Append(10,600)
 console.log(Equal)
 
 module.export = {
-    Equal
+    Append
 }
