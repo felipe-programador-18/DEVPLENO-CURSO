@@ -4,5 +4,5 @@ const Together = Sum(10,20)
 console.log(Together)
 
 module.export = {
-    Together
+    Sum
 }
