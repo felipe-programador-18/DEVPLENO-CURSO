@@ -3,6 +3,6 @@ const Together = Sum(10,20)
 
 console.log(Together)
 
-module.export = {
+module.exports= {
     Sum
 }
