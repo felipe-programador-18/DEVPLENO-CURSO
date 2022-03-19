@@ -35,6 +35,7 @@ function animal (name) {
 const gato = animal('gato')
 gato.increment()
 console.log(gato.getCount(), gato.getname())
+console.log(gato.getCount(), gato.getname())
 
 const dog = animal('cachorro')
 dog.increment()
