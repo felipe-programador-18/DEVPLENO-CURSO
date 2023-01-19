@@ -5,6 +5,10 @@ const together = (caught(5000,323123))
 
 console.log(together)
 
+const CreateOther = (felipe1, felipe2) => felipe1 +felipe2
+const receiveCreate = (CreateOther(12323,23123122))
+console.log(receiveCreate)
+
 let more = 323123.32323
 console.log(more.toFixed(2))
 
